@@ -7,22 +7,14 @@ Alongside my professional role, I've built data projects showcasing my ability t
 
 I’m interested in roles where data, finance, and real-world decision-making intersect.
 
-📄 Download My Resume
-💼 Connect on LinkedIn
+[📄 Download My Resume](https://github.com/geoffreyrwamakuba-rgb/geoffreyrwamakuba-rgb/blob/main/Geoffrey.Rwamakuba.CV.Analyst.pdf)
+[💼 Connect on LinkedIn](https://www.linkedin.com/in/geoffrey-rwamakuba-0442b8241/)
 
 ## Featured Projects
-Market Basket Analysis for E-commerce Optimization
-Business Problem: Retailers needed insights into product bundling to increase revenue.
-## BI Solution: Built a Power BI dashboard to analyze frequent product pairings and optimize marketing strategies.
-Results: Boosted AOV by 12% and CLV by 15% by refining product recommendations.
-🔗 View Repo | 📊 View Dashboard
-## SaaS Customer Segmentation & Retention Analytics
-Business Problem: Leadership needed customer retention insights to reduce churn and improve LTV.
-BI Solution: Created a cohort-based retention dashboard to track churn trends & optimize pricing strategies.
-Results: Improved Gross Dollar Retention by 10% through enhanced engagement strategies.
-🔗 View Repo | 📑 View Report
-## RFM Analysis Power BI Multi-Page Dashboard
-Business Problem: Identifying high-value customers to improve retention and revenue.
-BI Solution: Conducted RFM segmentation and built a Power BI dashboard for customer insights.
-Results: Increased Customer Retention Rate by 15% and Revenue per User (RPU) by 12%.
-View Repo | 📊 View Dashboard
+### Cleaning Consumer Transaction Data in SQL
+🔗 [View Repo](https://github.com/geoffreyrwamakuba-rgb/Cleaning-Transaction-Data-in-SQL)
+### Revenue and Churn Analysis for a SaaS Fintech
+🔗 [View Repo](https://github.com/geoffreyrwamakuba-rgb/Revenue-and-Churn-Analysis-for-a-SaaS-Fintech)
+### Exploratory_Analysis__Connecticut_Real_Estate_Sales
+🔗 [View Repo](https://github.com/geoffreyrwamakuba-rgb/Exploratory_Analysis__Connecticut_Real_Estate_Sales)
+
