@@ -13,9 +13,9 @@ Alongside my professional role, I've built data projects showcasing my ability t
 💼 [Connect on LinkedIn](https://www.linkedin.com/in/geoffrey-rwamakuba-0442b8241/)
 
 ## Featured Projects
-#### Cleaning Consumer Transaction Data in SQL
+#### Cleaning Consumer Transaction Data - SQL
 🔗 [View Repo](https://github.com/geoffreyrwamakuba-rgb/Cleaning-Transaction-Data-in-SQL)
-#### Revenue and Churn Analysis for a SaaS Fintech
+#### Revenue and Churn Analysis for a SaaS Fintech - SQL & Tableau 
 🔗 [View Repo](https://github.com/geoffreyrwamakuba-rgb/Revenue-and-Churn-Analysis-for-a-SaaS-Fintech)
-#### Exploratory_Analysis__Connecticut_Real_Estate_Sales
+#### Exploratory Analysis of Connecticut Real Estate Sales - Python
 🔗 [View Repo](https://github.com/geoffreyrwamakuba-rgb/Exploratory_Analysis__Connecticut_Real_Estate_Sales)
