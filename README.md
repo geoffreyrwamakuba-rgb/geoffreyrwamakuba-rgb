@@ -9,7 +9,7 @@ Alongside my professional role, I've built data projects showcasing my ability t
 **I’m interested in roles where data, finance, and real-world decision-making intersect.**
 
 ## Featured Projects
-#### Cleaning Consumer Transaction Data - SQL
+#### Cleaning Open Banking Transaction Data - SQL
 🔗 [View Repo](https://github.com/geoffreyrwamakuba-rgb/Cleaning-Transaction-Data-in-SQL)
 #### Revenue and Churn Analysis for a SaaS Fintech - SQL & Tableau 
 🔗 [View Repo](https://github.com/geoffreyrwamakuba-rgb/Revenue-and-Churn-Analysis-for-a-SaaS-Fintech)
