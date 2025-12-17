@@ -8,10 +8,6 @@ Alongside my professional role, I've built data projects showcasing my ability t
 
 **I’m interested in roles where data, finance, and real-world decision-making intersect.**
 
-📄 [Download My Resume](https://github.com/geoffreyrwamakuba-rgb/geoffreyrwamakuba-rgb/blob/main/Geoffrey.Rwamakuba.CV.Analyst.pdf)
-
-💼 [Connect on LinkedIn](https://www.linkedin.com/in/geoffrey-rwamakuba-0442b8241/)
-
 ## Featured Projects
 #### Cleaning Consumer Transaction Data - SQL
 🔗 [View Repo](https://github.com/geoffreyrwamakuba-rgb/Cleaning-Transaction-Data-in-SQL)
@@ -19,3 +15,9 @@ Alongside my professional role, I've built data projects showcasing my ability t
 🔗 [View Repo](https://github.com/geoffreyrwamakuba-rgb/Revenue-and-Churn-Analysis-for-a-SaaS-Fintech)
 #### Exploratory Analysis of Connecticut Real Estate Sales - Python
 🔗 [View Repo](https://github.com/geoffreyrwamakuba-rgb/Exploratory_Analysis__Connecticut_Real_Estate_Sales)
+
+
+
+📄 [Download My Resume](https://github.com/geoffreyrwamakuba-rgb/geoffreyrwamakuba-rgb/blob/main/Geoffrey.Rwamakuba.CV.Analyst.pdf)
+
+💼 [Connect on LinkedIn](https://www.linkedin.com/in/geoffrey-rwamakuba-0442b8241/)
