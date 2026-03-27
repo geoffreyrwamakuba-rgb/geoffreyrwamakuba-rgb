@@ -1,6 +1,6 @@
 # Data Analytics Portfolio
 ## Introduction
-Hi, I’m Geoffrey Rwamakuba — I can help your team turn messy data into clear, decision-ready insights.
+Hi, I’m Geoffrey — I can help your team turn messy data into clear, decision-ready insights.
 
 About me:
 - 2 years as a Data Analyst in a consulting firm (credit risk, financial data)
