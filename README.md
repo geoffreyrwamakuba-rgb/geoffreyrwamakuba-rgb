@@ -1,12 +1,14 @@
 # Data Analytics Portfolio
 ## Introduction
-Hi, I’m Geoffrey Rwamakuba — I’m an analyst at a boutique investment bank, with experience supporting complex financing transactions and delivering data-driven insights to clients. 
+Hi, I’m Geoffrey Rwamakuba — I can help your team turn messy data into clear, decision-ready insights.
 
-I’ve assisted in the successful closing of **£400m+ in debt financing transactions**, working across financial modelling, analysis, and deal execution.
+About me:
+- 2 years as a Data Analyst in a consulting firm (credit risk, financial data)
+- Currently work as a Data Engineer at a leading UK SaaS fintech (building scalable pipelines)
 
-Alongside my professional role, I've built data projects showcasing my ability to work with Python, SQL, and Tableau — from data cleaning and analysis to visualisation and insight generation.
+Alongside my professional roles, I've built data projects showcasing my ability to work with Python, SQL, and Tableau — from data cleaning and analysis to visualisation and insight generation.
 
-**I’m interested in roles where data, finance, and real-world decision-making intersect.**
+**I’m interested in projects where data, finance, and real-world decision-making intersect.**
 
 ## Featured Projects
 #### Data Warehouse Project
